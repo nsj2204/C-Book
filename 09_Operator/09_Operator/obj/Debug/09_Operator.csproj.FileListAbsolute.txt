@@ -1,0 +1,7 @@
+C:\C#\09_Operator\09_Operator\bin\Debug\09_Operator.exe.config
+C:\C#\09_Operator\09_Operator\bin\Debug\09_Operator.exe
+C:\C#\09_Operator\09_Operator\bin\Debug\09_Operator.pdb
+C:\C#\09_Operator\09_Operator\obj\Debug\09_Operator.csproj.AssemblyReference.cache
+C:\C#\09_Operator\09_Operator\obj\Debug\09_Operator.csproj.CoreCompileInputs.cache
+C:\C#\09_Operator\09_Operator\obj\Debug\09_Operator.exe
+C:\C#\09_Operator\09_Operator\obj\Debug\09_Operator.pdb

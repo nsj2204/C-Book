@@ -1,0 +1,7 @@
+C:\C#\C샵 교과서\06_IntegerDemo\06_IntegerDemo\bin\Debug\06_IntegerDemo.exe.config
+C:\C#\C샵 교과서\06_IntegerDemo\06_IntegerDemo\bin\Debug\06_IntegerDemo.exe
+C:\C#\C샵 교과서\06_IntegerDemo\06_IntegerDemo\bin\Debug\06_IntegerDemo.pdb
+C:\C#\C샵 교과서\06_IntegerDemo\06_IntegerDemo\obj\Debug\06_IntegerDemo.csproj.AssemblyReference.cache
+C:\C#\C샵 교과서\06_IntegerDemo\06_IntegerDemo\obj\Debug\06_IntegerDemo.csproj.CoreCompileInputs.cache
+C:\C#\C샵 교과서\06_IntegerDemo\06_IntegerDemo\obj\Debug\06_IntegerDemo.exe
+C:\C#\C샵 교과서\06_IntegerDemo\06_IntegerDemo\obj\Debug\06_IntegerDemo.pdb

@@ -1,0 +1,7 @@
+C:\C#\C샵 교과서\SubA_Debug\SubA_Debug\bin\Debug\SubA_Debug.exe.config
+C:\C#\C샵 교과서\SubA_Debug\SubA_Debug\bin\Debug\SubA_Debug.exe
+C:\C#\C샵 교과서\SubA_Debug\SubA_Debug\bin\Debug\SubA_Debug.pdb
+C:\C#\C샵 교과서\SubA_Debug\SubA_Debug\obj\Debug\SubA_Debug.csproj.AssemblyReference.cache
+C:\C#\C샵 교과서\SubA_Debug\SubA_Debug\obj\Debug\SubA_Debug.csproj.CoreCompileInputs.cache
+C:\C#\C샵 교과서\SubA_Debug\SubA_Debug\obj\Debug\SubA_Debug.exe
+C:\C#\C샵 교과서\SubA_Debug\SubA_Debug\obj\Debug\SubA_Debug.pdb

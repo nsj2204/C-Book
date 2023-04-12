@@ -1,0 +1,6 @@
+C:\C#\C샵 교과서\05_Variable\05_Variable\bin\Debug\05_Variable.exe.config
+C:\C#\C샵 교과서\05_Variable\05_Variable\bin\Debug\05_Variable.exe
+C:\C#\C샵 교과서\05_Variable\05_Variable\bin\Debug\05_Variable.pdb
+C:\C#\C샵 교과서\05_Variable\05_Variable\obj\Debug\05_Variable.csproj.CoreCompileInputs.cache
+C:\C#\C샵 교과서\05_Variable\05_Variable\obj\Debug\05_Variable.exe
+C:\C#\C샵 교과서\05_Variable\05_Variable\obj\Debug\05_Variable.pdb

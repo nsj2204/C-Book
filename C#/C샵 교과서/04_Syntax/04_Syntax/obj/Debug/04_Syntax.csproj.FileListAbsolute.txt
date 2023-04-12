@@ -1,0 +1,2 @@
+C:\C#\C샵 교과서\04_Syntax\04_Syntax\obj\Debug\04_Syntax.csproj.AssemblyReference.cache
+C:\C#\C샵 교과서\04_Syntax\04_Syntax\obj\Debug\04_Syntax.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\C#\HelloWorldConsole\bin\Debug\net7.0\HelloWorldConsole.exe
+C:\C#\HelloWorldConsole\bin\Debug\net7.0\HelloWorldConsole.deps.json
+C:\C#\HelloWorldConsole\bin\Debug\net7.0\HelloWorldConsole.runtimeconfig.json
+C:\C#\HelloWorldConsole\bin\Debug\net7.0\HelloWorldConsole.dll
+C:\C#\HelloWorldConsole\bin\Debug\net7.0\HelloWorldConsole.pdb
+C:\C#\HelloWorldConsole\obj\Debug\net7.0\HelloWorldConsole.csproj.AssemblyReference.cache
+C:\C#\HelloWorldConsole\obj\Debug\net7.0\HelloWorldConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\HelloWorldConsole\obj\Debug\net7.0\HelloWorldConsole.AssemblyInfoInputs.cache
+C:\C#\HelloWorldConsole\obj\Debug\net7.0\HelloWorldConsole.AssemblyInfo.cs
+C:\C#\HelloWorldConsole\obj\Debug\net7.0\HelloWorldConsole.csproj.CoreCompileInputs.cache
+C:\C#\HelloWorldConsole\obj\Debug\net7.0\HelloWorldConsole.dll
+C:\C#\HelloWorldConsole\obj\Debug\net7.0\refint\HelloWorldConsole.dll
+C:\C#\HelloWorldConsole\obj\Debug\net7.0\HelloWorldConsole.pdb
+C:\C#\HelloWorldConsole\obj\Debug\net7.0\HelloWorldConsole.genruntimeconfig.cache
+C:\C#\HelloWorldConsole\obj\Debug\net7.0\ref\HelloWorldConsole.dll

@@ -1,0 +1,7 @@
+C:\C#\C샵 교과서\08_ReadLineNote\08_ReadLineNote\bin\Debug\08_ReadLineNote.exe.config
+C:\C#\C샵 교과서\08_ReadLineNote\08_ReadLineNote\bin\Debug\08_ReadLineNote.exe
+C:\C#\C샵 교과서\08_ReadLineNote\08_ReadLineNote\bin\Debug\08_ReadLineNote.pdb
+C:\C#\C샵 교과서\08_ReadLineNote\08_ReadLineNote\obj\Debug\08_ReadLineNote.csproj.AssemblyReference.cache
+C:\C#\C샵 교과서\08_ReadLineNote\08_ReadLineNote\obj\Debug\08_ReadLineNote.csproj.CoreCompileInputs.cache
+C:\C#\C샵 교과서\08_ReadLineNote\08_ReadLineNote\obj\Debug\08_ReadLineNote.exe
+C:\C#\C샵 교과서\08_ReadLineNote\08_ReadLineNote\obj\Debug\08_ReadLineNote.pdb

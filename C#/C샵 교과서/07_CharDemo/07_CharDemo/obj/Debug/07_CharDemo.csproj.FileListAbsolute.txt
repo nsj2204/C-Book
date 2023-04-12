@@ -1,0 +1,7 @@
+C:\C#\C샵 교과서\07_CharDemo\07_CharDemo\bin\Debug\07_CharDemo.exe.config
+C:\C#\C샵 교과서\07_CharDemo\07_CharDemo\bin\Debug\07_CharDemo.exe
+C:\C#\C샵 교과서\07_CharDemo\07_CharDemo\bin\Debug\07_CharDemo.pdb
+C:\C#\C샵 교과서\07_CharDemo\07_CharDemo\obj\Debug\07_CharDemo.csproj.AssemblyReference.cache
+C:\C#\C샵 교과서\07_CharDemo\07_CharDemo\obj\Debug\07_CharDemo.csproj.CoreCompileInputs.cache
+C:\C#\C샵 교과서\07_CharDemo\07_CharDemo\obj\Debug\07_CharDemo.exe
+C:\C#\C샵 교과서\07_CharDemo\07_CharDemo\obj\Debug\07_CharDemo.pdb

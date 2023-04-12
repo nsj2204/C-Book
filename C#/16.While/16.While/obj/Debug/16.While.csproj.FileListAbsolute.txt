@@ -1,0 +1,6 @@
+C:\C-Book\C#\16.While\16.While\bin\Debug\16.While.exe.config
+C:\C-Book\C#\16.While\16.While\bin\Debug\16.While.exe
+C:\C-Book\C#\16.While\16.While\bin\Debug\16.While.pdb
+C:\C-Book\C#\16.While\16.While\obj\Debug\16.While.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\16.While\16.While\obj\Debug\16.While.exe
+C:\C-Book\C#\16.While\16.While\obj\Debug\16.While.pdb

@@ -1,0 +1,6 @@
+C:\C-Book\C#\15.ForSumEven\15.ForSumEven\bin\Debug\15.ForSumEven.exe.config
+C:\C-Book\C#\15.ForSumEven\15.ForSumEven\bin\Debug\15.ForSumEven.exe
+C:\C-Book\C#\15.ForSumEven\15.ForSumEven\bin\Debug\15.ForSumEven.pdb
+C:\C-Book\C#\15.ForSumEven\15.ForSumEven\obj\Debug\15.ForSumEven.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\15.ForSumEven\15.ForSumEven\obj\Debug\15.ForSumEven.exe
+C:\C-Book\C#\15.ForSumEven\15.ForSumEven\obj\Debug\15.ForSumEven.pdb

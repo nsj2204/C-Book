@@ -1,0 +1,7 @@
+C:\C-Book\C#\21.Math-Random\21.Math-Random\bin\Debug\21.Math-Random.exe.config
+C:\C-Book\C#\21.Math-Random\21.Math-Random\bin\Debug\21.Math-Random.exe
+C:\C-Book\C#\21.Math-Random\21.Math-Random\bin\Debug\21.Math-Random.pdb
+C:\C-Book\C#\21.Math-Random\21.Math-Random\obj\Debug\21.Math-Random.csproj.AssemblyReference.cache
+C:\C-Book\C#\21.Math-Random\21.Math-Random\obj\Debug\21.Math-Random.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\21.Math-Random\21.Math-Random\obj\Debug\21.Math-Random.exe
+C:\C-Book\C#\21.Math-Random\21.Math-Random\obj\Debug\21.Math-Random.pdb

@@ -1,0 +1,6 @@
+C:\C-Book\C#\18.ArrayDemo\18.ArrayDemo\bin\Debug\18.ArrayDemo.exe.config
+C:\C-Book\C#\18.ArrayDemo\18.ArrayDemo\bin\Debug\18.ArrayDemo.exe
+C:\C-Book\C#\18.ArrayDemo\18.ArrayDemo\bin\Debug\18.ArrayDemo.pdb
+C:\C-Book\C#\18.ArrayDemo\18.ArrayDemo\obj\Debug\18.ArrayDemo.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\18.ArrayDemo\18.ArrayDemo\obj\Debug\18.ArrayDemo.exe
+C:\C-Book\C#\18.ArrayDemo\18.ArrayDemo\obj\Debug\18.ArrayDemo.pdb

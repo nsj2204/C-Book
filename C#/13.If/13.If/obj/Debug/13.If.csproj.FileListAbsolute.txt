@@ -1,0 +1,7 @@
+C:\C-Book\C#\13.If\13.If\bin\Debug\13.If.exe.config
+C:\C-Book\C#\13.If\13.If\bin\Debug\13.If.exe
+C:\C-Book\C#\13.If\13.If\bin\Debug\13.If.pdb
+C:\C-Book\C#\13.If\13.If\obj\Debug\13.If.csproj.AssemblyReference.cache
+C:\C-Book\C#\13.If\13.If\obj\Debug\13.If.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\13.If\13.If\obj\Debug\13.If.exe
+C:\C-Book\C#\13.If\13.If\obj\Debug\13.If.pdb

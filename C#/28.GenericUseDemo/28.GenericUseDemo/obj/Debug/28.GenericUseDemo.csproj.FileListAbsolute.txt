@@ -1,0 +1,7 @@
+C:\C-Book\C#\28.GenericUseDemo\28.GenericUseDemo\bin\Debug\28.GenericUseDemo.exe.config
+C:\C-Book\C#\28.GenericUseDemo\28.GenericUseDemo\bin\Debug\28.GenericUseDemo.exe
+C:\C-Book\C#\28.GenericUseDemo\28.GenericUseDemo\bin\Debug\28.GenericUseDemo.pdb
+C:\C-Book\C#\28.GenericUseDemo\28.GenericUseDemo\obj\Debug\28.GenericUseDemo.csproj.AssemblyReference.cache
+C:\C-Book\C#\28.GenericUseDemo\28.GenericUseDemo\obj\Debug\28.GenericUseDemo.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\28.GenericUseDemo\28.GenericUseDemo\obj\Debug\28.GenericUseDemo.exe
+C:\C-Book\C#\28.GenericUseDemo\28.GenericUseDemo\obj\Debug\28.GenericUseDemo.pdb

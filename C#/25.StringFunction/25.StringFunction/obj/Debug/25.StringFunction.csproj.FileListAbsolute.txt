@@ -1,0 +1,6 @@
+C:\C-Book\C#\25.StringFunction\25.StringFunction\bin\Debug\25.StringFunction.exe.config
+C:\C-Book\C#\25.StringFunction\25.StringFunction\bin\Debug\25.StringFunction.exe
+C:\C-Book\C#\25.StringFunction\25.StringFunction\bin\Debug\25.StringFunction.pdb
+C:\C-Book\C#\25.StringFunction\25.StringFunction\obj\Debug\25.StringFunction.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\25.StringFunction\25.StringFunction\obj\Debug\25.StringFunction.exe
+C:\C-Book\C#\25.StringFunction\25.StringFunction\obj\Debug\25.StringFunction.pdb

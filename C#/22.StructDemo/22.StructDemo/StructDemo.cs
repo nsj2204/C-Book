@@ -28,8 +28,19 @@ namespace _22.StructDemo
             
             Console.WriteLine(DateTime.Now - (new DateTime(2023, 1, 1)));
 
-            TimeSpan ts = (DateTime.Now - new DateTime(2023, 1, 1));
+            TimeSpan ts = (DateTime.Now - new DateTime(2000, 1, 1));
+            Console.WriteLine(Math.Ceiling(ts.TotalSeconds));
             Console.WriteLine(Math.Ceiling(ts.TotalDays));
+
+
+            Console.WriteLine(Char.ToUpper('a'));
+            Console.WriteLine(Char.IsWhiteSpace(' '));
+            Console.WriteLine(Char.IsWhiteSpace('A'));
+            Console.WriteLine(Char.IsDigit('1'));
+            Console.WriteLine(Char.IsDigit('b'));
+            Console.WriteLine(Char.IsLetterOrDigit(' '));
+
+            Console.WriteLine(Guid.NewGuid().ToString());
         }
     }
 }

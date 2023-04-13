@@ -1,0 +1,7 @@
+C:\C-Book\C#\26.ExceptionDemo\26.ExceptionDemo\bin\Debug\26.ExceptionDemo.exe.config
+C:\C-Book\C#\26.ExceptionDemo\26.ExceptionDemo\bin\Debug\26.ExceptionDemo.exe
+C:\C-Book\C#\26.ExceptionDemo\26.ExceptionDemo\bin\Debug\26.ExceptionDemo.pdb
+C:\C-Book\C#\26.ExceptionDemo\26.ExceptionDemo\obj\Debug\26.ExceptionDemo.csproj.AssemblyReference.cache
+C:\C-Book\C#\26.ExceptionDemo\26.ExceptionDemo\obj\Debug\26.ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\26.ExceptionDemo\26.ExceptionDemo\obj\Debug\26.ExceptionDemo.exe
+C:\C-Book\C#\26.ExceptionDemo\26.ExceptionDemo\obj\Debug\26.ExceptionDemo.pdb

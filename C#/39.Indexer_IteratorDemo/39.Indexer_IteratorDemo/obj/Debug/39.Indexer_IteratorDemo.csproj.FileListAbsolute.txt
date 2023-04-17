@@ -1,0 +1,6 @@
+C:\C-Book\C#\39.Indexer_IteratorDemo\39.Indexer_IteratorDemo\bin\Debug\39.Indexer_IteratorDemo.exe.config
+C:\C-Book\C#\39.Indexer_IteratorDemo\39.Indexer_IteratorDemo\bin\Debug\39.Indexer_IteratorDemo.exe
+C:\C-Book\C#\39.Indexer_IteratorDemo\39.Indexer_IteratorDemo\bin\Debug\39.Indexer_IteratorDemo.pdb
+C:\C-Book\C#\39.Indexer_IteratorDemo\39.Indexer_IteratorDemo\obj\Debug\39.Indexer_IteratorDemo.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\39.Indexer_IteratorDemo\39.Indexer_IteratorDemo\obj\Debug\39.Indexer_IteratorDemo.exe
+C:\C-Book\C#\39.Indexer_IteratorDemo\39.Indexer_IteratorDemo\obj\Debug\39.Indexer_IteratorDemo.pdb

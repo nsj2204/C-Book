@@ -1,0 +1,7 @@
+C:\C-Book\C#\36.DestructorDemo\36.DestructorDemo\bin\Debug\36.DestructorDemo.exe.config
+C:\C-Book\C#\36.DestructorDemo\36.DestructorDemo\bin\Debug\36.DestructorDemo.exe
+C:\C-Book\C#\36.DestructorDemo\36.DestructorDemo\bin\Debug\36.DestructorDemo.pdb
+C:\C-Book\C#\36.DestructorDemo\36.DestructorDemo\obj\Debug\36.DestructorDemo.csproj.AssemblyReference.cache
+C:\C-Book\C#\36.DestructorDemo\36.DestructorDemo\obj\Debug\36.DestructorDemo.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\36.DestructorDemo\36.DestructorDemo\obj\Debug\36.DestructorDemo.exe
+C:\C-Book\C#\36.DestructorDemo\36.DestructorDemo\obj\Debug\36.DestructorDemo.pdb

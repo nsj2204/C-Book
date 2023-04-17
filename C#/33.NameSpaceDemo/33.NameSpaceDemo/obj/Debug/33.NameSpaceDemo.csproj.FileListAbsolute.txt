@@ -1,0 +1,7 @@
+C:\C-Book\C#\33.NameSpaceDemo\33.NameSpaceDemo\bin\Debug\33.NameSpaceDemo.exe.config
+C:\C-Book\C#\33.NameSpaceDemo\33.NameSpaceDemo\bin\Debug\33.NameSpaceDemo.exe
+C:\C-Book\C#\33.NameSpaceDemo\33.NameSpaceDemo\bin\Debug\33.NameSpaceDemo.pdb
+C:\C-Book\C#\33.NameSpaceDemo\33.NameSpaceDemo\obj\Debug\33.NameSpaceDemo.csproj.AssemblyReference.cache
+C:\C-Book\C#\33.NameSpaceDemo\33.NameSpaceDemo\obj\Debug\33.NameSpaceDemo.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\33.NameSpaceDemo\33.NameSpaceDemo\obj\Debug\33.NameSpaceDemo.exe
+C:\C-Book\C#\33.NameSpaceDemo\33.NameSpaceDemo\obj\Debug\33.NameSpaceDemo.pdb

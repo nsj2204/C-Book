@@ -1,0 +1,6 @@
+C:\C-Book\C#\34.FieldDemo\34.FieldDemo\bin\Debug\34.FieldDemo.exe.config
+C:\C-Book\C#\34.FieldDemo\34.FieldDemo\bin\Debug\34.FieldDemo.exe
+C:\C-Book\C#\34.FieldDemo\34.FieldDemo\bin\Debug\34.FieldDemo.pdb
+C:\C-Book\C#\34.FieldDemo\34.FieldDemo\obj\Debug\34.FieldDemo.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\34.FieldDemo\34.FieldDemo\obj\Debug\34.FieldDemo.exe
+C:\C-Book\C#\34.FieldDemo\34.FieldDemo\obj\Debug\34.FieldDemo.pdb

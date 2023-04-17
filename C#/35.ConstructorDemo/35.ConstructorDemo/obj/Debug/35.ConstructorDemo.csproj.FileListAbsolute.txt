@@ -1,0 +1,7 @@
+C:\C-Book\C#\35.ConstructorDemo\35.ConstructorDemo\bin\Debug\35.ConstructorDemo.exe.config
+C:\C-Book\C#\35.ConstructorDemo\35.ConstructorDemo\bin\Debug\35.ConstructorDemo.exe
+C:\C-Book\C#\35.ConstructorDemo\35.ConstructorDemo\bin\Debug\35.ConstructorDemo.pdb
+C:\C-Book\C#\35.ConstructorDemo\35.ConstructorDemo\obj\Debug\35.ConstructorDemo.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\35.ConstructorDemo\35.ConstructorDemo\obj\Debug\35.ConstructorDemo.exe
+C:\C-Book\C#\35.ConstructorDemo\35.ConstructorDemo\obj\Debug\35.ConstructorDemo.pdb
+C:\C-Book\C#\35.ConstructorDemo\35.ConstructorDemo\obj\Debug\35.ConstructorDemo.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\C-Book\C#\38.PropertyDemo\38.PropertyDemo\bin\Debug\38.PropertyDemo.exe.config
+C:\C-Book\C#\38.PropertyDemo\38.PropertyDemo\bin\Debug\38.PropertyDemo.exe
+C:\C-Book\C#\38.PropertyDemo\38.PropertyDemo\bin\Debug\38.PropertyDemo.pdb
+C:\C-Book\C#\38.PropertyDemo\38.PropertyDemo\obj\Debug\38.PropertyDemo.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\38.PropertyDemo\38.PropertyDemo\obj\Debug\38.PropertyDemo.exe
+C:\C-Book\C#\38.PropertyDemo\38.PropertyDemo\obj\Debug\38.PropertyDemo.pdb
+C:\C-Book\C#\38.PropertyDemo\38.PropertyDemo\obj\Debug\38.PropertyDemo.csproj.AssemblyReference.cache

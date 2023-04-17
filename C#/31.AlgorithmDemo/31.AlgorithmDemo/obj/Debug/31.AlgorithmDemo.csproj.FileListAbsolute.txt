@@ -1,0 +1,7 @@
+C:\C-Book\C#\31.AlgorithmDemo\31.AlgorithmDemo\bin\Debug\31.AlgorithmDemo.exe.config
+C:\C-Book\C#\31.AlgorithmDemo\31.AlgorithmDemo\bin\Debug\31.AlgorithmDemo.exe
+C:\C-Book\C#\31.AlgorithmDemo\31.AlgorithmDemo\bin\Debug\31.AlgorithmDemo.pdb
+C:\C-Book\C#\31.AlgorithmDemo\31.AlgorithmDemo\obj\Debug\31.AlgorithmDemo.csproj.AssemblyReference.cache
+C:\C-Book\C#\31.AlgorithmDemo\31.AlgorithmDemo\obj\Debug\31.AlgorithmDemo.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\31.AlgorithmDemo\31.AlgorithmDemo\obj\Debug\31.AlgorithmDemo.exe
+C:\C-Book\C#\31.AlgorithmDemo\31.AlgorithmDemo\obj\Debug\31.AlgorithmDemo.pdb

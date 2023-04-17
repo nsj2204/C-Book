@@ -1,0 +1,7 @@
+C:\C-Book\C#\32.ObjectDemo\32.ObjectDemo\bin\Debug\32.ObjectDemo.exe.config
+C:\C-Book\C#\32.ObjectDemo\32.ObjectDemo\bin\Debug\32.ObjectDemo.exe
+C:\C-Book\C#\32.ObjectDemo\32.ObjectDemo\bin\Debug\32.ObjectDemo.pdb
+C:\C-Book\C#\32.ObjectDemo\32.ObjectDemo\obj\Debug\32.ObjectDemo.csproj.AssemblyReference.cache
+C:\C-Book\C#\32.ObjectDemo\32.ObjectDemo\obj\Debug\32.ObjectDemo.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\32.ObjectDemo\32.ObjectDemo\obj\Debug\32.ObjectDemo.exe
+C:\C-Book\C#\32.ObjectDemo\32.ObjectDemo\obj\Debug\32.ObjectDemo.pdb

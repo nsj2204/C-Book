@@ -1,0 +1,6 @@
+C:\C-Book\C#\37.MethodDemo\37.MethodDemo\bin\Debug\37.MethodDemo.exe.config
+C:\C-Book\C#\37.MethodDemo\37.MethodDemo\bin\Debug\37.MethodDemo.exe
+C:\C-Book\C#\37.MethodDemo\37.MethodDemo\bin\Debug\37.MethodDemo.pdb
+C:\C-Book\C#\37.MethodDemo\37.MethodDemo\obj\Debug\37.MethodDemo.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\37.MethodDemo\37.MethodDemo\obj\Debug\37.MethodDemo.exe
+C:\C-Book\C#\37.MethodDemo\37.MethodDemo\obj\Debug\37.MethodDemo.pdb

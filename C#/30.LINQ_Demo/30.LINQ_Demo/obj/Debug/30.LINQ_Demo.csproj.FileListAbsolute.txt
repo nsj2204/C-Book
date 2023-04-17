@@ -1,0 +1,7 @@
+C:\C-Book\C#\30.LINQ_Demo\30.LINQ_Demo\bin\Debug\30.LINQ_Demo.exe.config
+C:\C-Book\C#\30.LINQ_Demo\30.LINQ_Demo\bin\Debug\30.LINQ_Demo.exe
+C:\C-Book\C#\30.LINQ_Demo\30.LINQ_Demo\bin\Debug\30.LINQ_Demo.pdb
+C:\C-Book\C#\30.LINQ_Demo\30.LINQ_Demo\obj\Debug\30.LINQ_Demo.csproj.AssemblyReference.cache
+C:\C-Book\C#\30.LINQ_Demo\30.LINQ_Demo\obj\Debug\30.LINQ_Demo.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\30.LINQ_Demo\30.LINQ_Demo\obj\Debug\30.LINQ_Demo.exe
+C:\C-Book\C#\30.LINQ_Demo\30.LINQ_Demo\obj\Debug\30.LINQ_Demo.pdb

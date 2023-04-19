@@ -1,0 +1,6 @@
+C:\Users\NSJ\source\repos\47.OOP_Demo\47.OOP_Demo\bin\Release\47.OOP_Demo.exe.config
+C:\Users\NSJ\source\repos\47.OOP_Demo\47.OOP_Demo\bin\Release\47.OOP_Demo.exe
+C:\Users\NSJ\source\repos\47.OOP_Demo\47.OOP_Demo\bin\Release\47.OOP_Demo.pdb
+C:\Users\NSJ\source\repos\47.OOP_Demo\47.OOP_Demo\obj\Release\47.OOP_Demo.csproj.CoreCompileInputs.cache
+C:\Users\NSJ\source\repos\47.OOP_Demo\47.OOP_Demo\obj\Release\47.OOP_Demo.exe
+C:\Users\NSJ\source\repos\47.OOP_Demo\47.OOP_Demo\obj\Release\47.OOP_Demo.pdb

@@ -1,0 +1,6 @@
+C:\Users\NSJ\source\repos\48.GenericsDemo\48.GenericsDemo\bin\Debug\48.GenericsDemo.exe.config
+C:\Users\NSJ\source\repos\48.GenericsDemo\48.GenericsDemo\bin\Debug\48.GenericsDemo.exe
+C:\Users\NSJ\source\repos\48.GenericsDemo\48.GenericsDemo\bin\Debug\48.GenericsDemo.pdb
+C:\Users\NSJ\source\repos\48.GenericsDemo\48.GenericsDemo\obj\Debug\48.GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\NSJ\source\repos\48.GenericsDemo\48.GenericsDemo\obj\Debug\48.GenericsDemo.exe
+C:\Users\NSJ\source\repos\48.GenericsDemo\48.GenericsDemo\obj\Debug\48.GenericsDemo.pdb

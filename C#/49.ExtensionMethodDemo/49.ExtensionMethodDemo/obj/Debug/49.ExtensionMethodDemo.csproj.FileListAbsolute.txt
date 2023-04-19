@@ -1,0 +1,7 @@
+C:\Users\NSJ\source\repos\49.ExtensionMethodDemo\49.ExtensionMethodDemo\bin\Debug\49.ExtensionMethodDemo.exe.config
+C:\Users\NSJ\source\repos\49.ExtensionMethodDemo\49.ExtensionMethodDemo\bin\Debug\49.ExtensionMethodDemo.exe
+C:\Users\NSJ\source\repos\49.ExtensionMethodDemo\49.ExtensionMethodDemo\bin\Debug\49.ExtensionMethodDemo.pdb
+C:\Users\NSJ\source\repos\49.ExtensionMethodDemo\49.ExtensionMethodDemo\obj\Debug\49.ExtensionMethodDemo.csproj.AssemblyReference.cache
+C:\Users\NSJ\source\repos\49.ExtensionMethodDemo\49.ExtensionMethodDemo\obj\Debug\49.ExtensionMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\NSJ\source\repos\49.ExtensionMethodDemo\49.ExtensionMethodDemo\obj\Debug\49.ExtensionMethodDemo.exe
+C:\Users\NSJ\source\repos\49.ExtensionMethodDemo\49.ExtensionMethodDemo\obj\Debug\49.ExtensionMethodDemo.pdb

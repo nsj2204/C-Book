@@ -1,0 +1,6 @@
+C:\Users\NSJ\source\repos\45.InterFaceDemo\45.InterFaceDemo\bin\Debug\45.InterFaceDemo.exe.config
+C:\Users\NSJ\source\repos\45.InterFaceDemo\45.InterFaceDemo\bin\Debug\45.InterFaceDemo.exe
+C:\Users\NSJ\source\repos\45.InterFaceDemo\45.InterFaceDemo\bin\Debug\45.InterFaceDemo.pdb
+C:\Users\NSJ\source\repos\45.InterFaceDemo\45.InterFaceDemo\obj\Debug\45.InterFaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\NSJ\source\repos\45.InterFaceDemo\45.InterFaceDemo\obj\Debug\45.InterFaceDemo.exe
+C:\Users\NSJ\source\repos\45.InterFaceDemo\45.InterFaceDemo\obj\Debug\45.InterFaceDemo.pdb

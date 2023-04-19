@@ -1,0 +1,7 @@
+C:\Users\NSJ\source\repos\44.OverrideDemo\44.OverrideDemo\bin\Debug\44.OverrideDemo.exe.config
+C:\Users\NSJ\source\repos\44.OverrideDemo\44.OverrideDemo\bin\Debug\44.OverrideDemo.exe
+C:\Users\NSJ\source\repos\44.OverrideDemo\44.OverrideDemo\bin\Debug\44.OverrideDemo.pdb
+C:\Users\NSJ\source\repos\44.OverrideDemo\44.OverrideDemo\obj\Debug\44.OverrideDemo.csproj.AssemblyReference.cache
+C:\Users\NSJ\source\repos\44.OverrideDemo\44.OverrideDemo\obj\Debug\44.OverrideDemo.csproj.CoreCompileInputs.cache
+C:\Users\NSJ\source\repos\44.OverrideDemo\44.OverrideDemo\obj\Debug\44.OverrideDemo.exe
+C:\Users\NSJ\source\repos\44.OverrideDemo\44.OverrideDemo\obj\Debug\44.OverrideDemo.pdb

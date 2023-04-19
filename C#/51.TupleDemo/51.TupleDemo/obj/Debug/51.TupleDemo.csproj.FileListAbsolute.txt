@@ -1,0 +1,6 @@
+C:\Users\NSJ\source\repos\51.TupleDemo\51.TupleDemo\bin\Debug\51.TupleDemo.exe.config
+C:\Users\NSJ\source\repos\51.TupleDemo\51.TupleDemo\bin\Debug\51.TupleDemo.exe
+C:\Users\NSJ\source\repos\51.TupleDemo\51.TupleDemo\bin\Debug\51.TupleDemo.pdb
+C:\Users\NSJ\source\repos\51.TupleDemo\51.TupleDemo\obj\Debug\51.TupleDemo.csproj.CoreCompileInputs.cache
+C:\Users\NSJ\source\repos\51.TupleDemo\51.TupleDemo\obj\Debug\51.TupleDemo.exe
+C:\Users\NSJ\source\repos\51.TupleDemo\51.TupleDemo\obj\Debug\51.TupleDemo.pdb

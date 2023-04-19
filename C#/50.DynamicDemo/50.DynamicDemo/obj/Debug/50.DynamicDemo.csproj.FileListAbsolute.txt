@@ -1,0 +1,6 @@
+C:\Users\NSJ\source\repos\50.DynamicDemo\50.DynamicDemo\bin\Debug\50.DynamicDemo.exe.config
+C:\Users\NSJ\source\repos\50.DynamicDemo\50.DynamicDemo\bin\Debug\50.DynamicDemo.exe
+C:\Users\NSJ\source\repos\50.DynamicDemo\50.DynamicDemo\bin\Debug\50.DynamicDemo.pdb
+C:\Users\NSJ\source\repos\50.DynamicDemo\50.DynamicDemo\obj\Debug\50.DynamicDemo.csproj.CoreCompileInputs.cache
+C:\Users\NSJ\source\repos\50.DynamicDemo\50.DynamicDemo\obj\Debug\50.DynamicDemo.exe
+C:\Users\NSJ\source\repos\50.DynamicDemo\50.DynamicDemo\obj\Debug\50.DynamicDemo.pdb

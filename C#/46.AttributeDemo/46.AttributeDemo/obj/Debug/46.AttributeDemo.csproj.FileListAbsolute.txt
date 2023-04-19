@@ -1,0 +1,7 @@
+C:\Users\NSJ\source\repos\46.AttributeDemo\46.AttributeDemo\bin\Debug\46.AttributeDemo.exe.config
+C:\Users\NSJ\source\repos\46.AttributeDemo\46.AttributeDemo\bin\Debug\46.AttributeDemo.exe
+C:\Users\NSJ\source\repos\46.AttributeDemo\46.AttributeDemo\bin\Debug\46.AttributeDemo.pdb
+C:\Users\NSJ\source\repos\46.AttributeDemo\46.AttributeDemo\obj\Debug\46.AttributeDemo.csproj.AssemblyReference.cache
+C:\Users\NSJ\source\repos\46.AttributeDemo\46.AttributeDemo\obj\Debug\46.AttributeDemo.csproj.CoreCompileInputs.cache
+C:\Users\NSJ\source\repos\46.AttributeDemo\46.AttributeDemo\obj\Debug\46.AttributeDemo.exe
+C:\Users\NSJ\source\repos\46.AttributeDemo\46.AttributeDemo\obj\Debug\46.AttributeDemo.pdb

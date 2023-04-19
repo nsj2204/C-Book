@@ -1,0 +1,7 @@
+C:\C-Book\C#\43.InheritanceDemo\43.InheritanceDemo\bin\Debug\43.InheritanceDemo.exe.config
+C:\C-Book\C#\43.InheritanceDemo\43.InheritanceDemo\bin\Debug\43.InheritanceDemo.exe
+C:\C-Book\C#\43.InheritanceDemo\43.InheritanceDemo\bin\Debug\43.InheritanceDemo.pdb
+C:\C-Book\C#\43.InheritanceDemo\43.InheritanceDemo\obj\Debug\43.InheritanceDemo.csproj.AssemblyReference.cache
+C:\C-Book\C#\43.InheritanceDemo\43.InheritanceDemo\obj\Debug\43.InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\43.InheritanceDemo\43.InheritanceDemo\obj\Debug\43.InheritanceDemo.exe
+C:\C-Book\C#\43.InheritanceDemo\43.InheritanceDemo\obj\Debug\43.InheritanceDemo.pdb

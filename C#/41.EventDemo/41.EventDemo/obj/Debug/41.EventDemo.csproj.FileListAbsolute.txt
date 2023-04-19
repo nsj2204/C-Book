@@ -1,0 +1,7 @@
+C:\C-Book\C#\41.EventDemo\41.EventDemo\bin\Debug\41.EventDemo.exe.config
+C:\C-Book\C#\41.EventDemo\41.EventDemo\bin\Debug\41.EventDemo.exe
+C:\C-Book\C#\41.EventDemo\41.EventDemo\bin\Debug\41.EventDemo.pdb
+C:\C-Book\C#\41.EventDemo\41.EventDemo\obj\Debug\41.EventDemo.csproj.AssemblyReference.cache
+C:\C-Book\C#\41.EventDemo\41.EventDemo\obj\Debug\41.EventDemo.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\41.EventDemo\41.EventDemo\obj\Debug\41.EventDemo.exe
+C:\C-Book\C#\41.EventDemo\41.EventDemo\obj\Debug\41.EventDemo.pdb

@@ -1,0 +1,7 @@
+C:\C-Book\C#\42.ClassEtcDemo\42.ClassEtcDemo\bin\Debug\42.ClassEtcDemo.exe.config
+C:\C-Book\C#\42.ClassEtcDemo\42.ClassEtcDemo\bin\Debug\42.ClassEtcDemo.exe
+C:\C-Book\C#\42.ClassEtcDemo\42.ClassEtcDemo\bin\Debug\42.ClassEtcDemo.pdb
+C:\C-Book\C#\42.ClassEtcDemo\42.ClassEtcDemo\obj\Debug\42.ClassEtcDemo.csproj.AssemblyReference.cache
+C:\C-Book\C#\42.ClassEtcDemo\42.ClassEtcDemo\obj\Debug\42.ClassEtcDemo.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\42.ClassEtcDemo\42.ClassEtcDemo\obj\Debug\42.ClassEtcDemo.exe
+C:\C-Book\C#\42.ClassEtcDemo\42.ClassEtcDemo\obj\Debug\42.ClassEtcDemo.pdb

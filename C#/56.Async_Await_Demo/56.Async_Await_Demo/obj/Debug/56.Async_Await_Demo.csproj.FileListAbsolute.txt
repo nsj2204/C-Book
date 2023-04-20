@@ -1,0 +1,2 @@
+C:\C-Book\C#\56.Async_Await_Demo\56.Async_Await_Demo\obj\Debug\56.Async_Await_Demo.csproj.AssemblyReference.cache
+C:\C-Book\C#\56.Async_Await_Demo\56.Async_Await_Demo\obj\Debug\56.Async_Await_Demo.csproj.CoreCompileInputs.cache

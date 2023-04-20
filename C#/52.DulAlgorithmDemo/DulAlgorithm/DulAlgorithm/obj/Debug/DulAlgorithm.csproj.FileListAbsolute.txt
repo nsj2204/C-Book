@@ -1,0 +1,5 @@
+C:\C-Book\C#\52.DulAlgorithmDemo\DulAlgorithm\DulAlgorithm\bin\Debug\DulAlgorithm.dll
+C:\C-Book\C#\52.DulAlgorithmDemo\DulAlgorithm\DulAlgorithm\bin\Debug\DulAlgorithm.pdb
+C:\C-Book\C#\52.DulAlgorithmDemo\DulAlgorithm\DulAlgorithm\obj\Debug\DulAlgorithm.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\52.DulAlgorithmDemo\DulAlgorithm\DulAlgorithm\obj\Debug\DulAlgorithm.dll
+C:\C-Book\C#\52.DulAlgorithmDemo\DulAlgorithm\DulAlgorithm\obj\Debug\DulAlgorithm.pdb

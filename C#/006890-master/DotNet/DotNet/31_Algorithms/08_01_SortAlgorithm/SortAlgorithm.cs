@@ -31,6 +31,7 @@ class SortAlgorithm
         }
         Console.WriteLine();
     }
+    
 }
 
 //int[] data = { 3, 2, 1, 5, 4 };

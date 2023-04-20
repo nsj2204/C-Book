@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\C#",
+    "\\C#\\006890-master",
+    "\\C#\\006890-master\\DotNet",
+    "\\C#\\006890-master\\DotNet\\DotNet\\31_Algorithms",
+    "\\C#\\006890-master\\DotNet\\DotNet\\31_Algorithms\\08_01_SortAlgorithm",
+    "\\C#\\52.DulAlgorithmDemo"
   ],
-  "SelectedNode": "\\관계형연산자.sln",
+  "SelectedNode": "\\C#\\52.DulAlgorithmDemo\\52.DulAlgorithmDemo.sln",
   "PreviewInSolutionExplorer": false
 }

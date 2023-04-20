@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DulAlgorithm", "DulAlgorithm\DulAlgorithm.csproj", "{2FD027E7-E552-42DA-B97D-0C834B3AAEC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DulAlgorithm.ConsoleApp", "DulAlgorithm.ConsoleApp\DulAlgorithm.ConsoleApp.csproj", "{4C74C4A5-C4B2-425E-A80D-95A75E4DA2EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DulAlgorithm.WindowsFormsApp", "DulAlgorithm.WindowsFormsApp\DulAlgorithm.WindowsFormsApp.csproj", "{B5C83737-9C59-4CE8-9486-9C8F13C7E250}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DulAlgoritm.Tests", "DulAlgoritm.Tests\DulAlgoritm.Tests.csproj", "{1F974EF9-4FDE-4E51-8BD5-6BF78DEE945C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{9D0C942E-755F-4DF4-9578-49872D8D0290}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DulAlgorithmNuGetTest", "DulAlgorithmNuGetTest\DulAlgorithmNuGetTest.csproj", "{30DA8892-779E-4D98-BB7D-C6432EDB6984}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD027E7-E552-42DA-B97D-0C834B3AAEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD027E7-E552-42DA-B97D-0C834B3AAEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD027E7-E552-42DA-B97D-0C834B3AAEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD027E7-E552-42DA-B97D-0C834B3AAEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C74C4A5-C4B2-425E-A80D-95A75E4DA2EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C74C4A5-C4B2-425E-A80D-95A75E4DA2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C74C4A5-C4B2-425E-A80D-95A75E4DA2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C74C4A5-C4B2-425E-A80D-95A75E4DA2EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5C83737-9C59-4CE8-9486-9C8F13C7E250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C83737-9C59-4CE8-9486-9C8F13C7E250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C83737-9C59-4CE8-9486-9C8F13C7E250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C83737-9C59-4CE8-9486-9C8F13C7E250}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F974EF9-4FDE-4E51-8BD5-6BF78DEE945C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F974EF9-4FDE-4E51-8BD5-6BF78DEE945C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F974EF9-4FDE-4E51-8BD5-6BF78DEE945C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F974EF9-4FDE-4E51-8BD5-6BF78DEE945C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30DA8892-779E-4D98-BB7D-C6432EDB6984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30DA8892-779E-4D98-BB7D-C6432EDB6984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30DA8892-779E-4D98-BB7D-C6432EDB6984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30DA8892-779E-4D98-BB7D-C6432EDB6984}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4C74C4A5-C4B2-425E-A80D-95A75E4DA2EA} = {9D0C942E-755F-4DF4-9578-49872D8D0290}
+		{B5C83737-9C59-4CE8-9486-9C8F13C7E250} = {9D0C942E-755F-4DF4-9578-49872D8D0290}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ED8087C-6DD9-45C1-9CE4-4A294DAB7C55}
+	EndGlobalSection
+EndGlobal

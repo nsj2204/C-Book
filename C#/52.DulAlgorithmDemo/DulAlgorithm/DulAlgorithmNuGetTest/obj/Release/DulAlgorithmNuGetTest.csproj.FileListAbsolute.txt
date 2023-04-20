@@ -1,0 +1,8 @@
+C:\C-Book\C#\52.DulAlgorithmDemo\DulAlgorithm\DulAlgorithmNuGetTest\obj\Release\DulAlgorithmNuGetTest.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\52.DulAlgorithmDemo\DulAlgorithm\DulAlgorithmNuGetTest\bin\Release\DulAlgorithmNuGetTest.exe.config
+C:\C-Book\C#\52.DulAlgorithmDemo\DulAlgorithm\DulAlgorithmNuGetTest\bin\Release\DulAlgorithmNuGetTest.exe
+C:\C-Book\C#\52.DulAlgorithmDemo\DulAlgorithm\DulAlgorithmNuGetTest\bin\Release\DulAlgorithmNuGetTest.pdb
+C:\C-Book\C#\52.DulAlgorithmDemo\DulAlgorithm\DulAlgorithmNuGetTest\bin\Release\DulAlgorithm.dll
+C:\C-Book\C#\52.DulAlgorithmDemo\DulAlgorithm\DulAlgorithmNuGetTest\obj\Release\DulAlgorithmNuGetTest.csproj.CopyComplete
+C:\C-Book\C#\52.DulAlgorithmDemo\DulAlgorithm\DulAlgorithmNuGetTest\obj\Release\DulAlgorithmNuGetTest.exe
+C:\C-Book\C#\52.DulAlgorithmDemo\DulAlgorithm\DulAlgorithmNuGetTest\obj\Release\DulAlgorithmNuGetTest.pdb

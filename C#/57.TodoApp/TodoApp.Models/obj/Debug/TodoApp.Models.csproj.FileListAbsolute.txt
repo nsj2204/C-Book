@@ -1,5 +1,0 @@
-C:\TodoApp\C-Book\C#\57.TodoApp\TodoApp.Models\bin\Debug\TodoApp.Models.dll
-C:\TodoApp\C-Book\C#\57.TodoApp\TodoApp.Models\bin\Debug\TodoApp.Models.pdb
-C:\TodoApp\C-Book\C#\57.TodoApp\TodoApp.Models\obj\Debug\TodoApp.Models.csproj.CoreCompileInputs.cache
-C:\TodoApp\C-Book\C#\57.TodoApp\TodoApp.Models\obj\Debug\TodoApp.Models.dll
-C:\TodoApp\C-Book\C#\57.TodoApp\TodoApp.Models\obj\Debug\TodoApp.Models.pdb

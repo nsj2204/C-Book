@@ -8,3 +8,13 @@ C:\TodoApp\C-Book\C#\57.TodoApp\TodoApp.ConsoleApp\obj\Debug\TodoApp.ConsoleApp.
 C:\TodoApp\C-Book\C#\57.TodoApp\TodoApp.ConsoleApp\obj\Debug\TodoApp.ConsoleApp.csproj.CopyComplete
 C:\TodoApp\C-Book\C#\57.TodoApp\TodoApp.ConsoleApp\obj\Debug\TodoApp.ConsoleApp.exe
 C:\TodoApp\C-Book\C#\57.TodoApp\TodoApp.ConsoleApp\obj\Debug\TodoApp.ConsoleApp.pdb
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleApp\bin\Debug\TodoApp.ConsoleApp.exe.config
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleApp\bin\Debug\TodoApp.ConsoleApp.exe
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleApp\bin\Debug\TodoApp.ConsoleApp.pdb
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleApp\bin\Debug\TodoApp.Models.dll
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleApp\bin\Debug\TodoApp.Models.pdb
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleApp\obj\Debug\TodoApp.ConsoleApp.csproj.AssemblyReference.cache
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleApp\obj\Debug\TodoApp.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleApp\obj\Debug\TodoApp.ConsoleApp.csproj.CopyComplete
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleApp\obj\Debug\TodoApp.ConsoleApp.exe
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleApp\obj\Debug\TodoApp.ConsoleApp.pdb

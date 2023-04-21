@@ -1,0 +1,15 @@
+C:\C-Book\C#\57.TodoApp\TodoApp.Apis.Tests.ConsoleApp\obj\Debug\netcoreapp3.1\TodoApp.Apis.Tests.ConsoleApp.csproj.AssemblyReference.cache
+C:\C-Book\C#\57.TodoApp\TodoApp.Apis.Tests.ConsoleApp\obj\Debug\netcoreapp3.1\TodoApp.Apis.Tests.ConsoleApp.AssemblyInfoInputs.cache
+C:\C-Book\C#\57.TodoApp\TodoApp.Apis.Tests.ConsoleApp\obj\Debug\netcoreapp3.1\TodoApp.Apis.Tests.ConsoleApp.AssemblyInfo.cs
+C:\C-Book\C#\57.TodoApp\TodoApp.Apis.Tests.ConsoleApp\obj\Debug\netcoreapp3.1\TodoApp.Apis.Tests.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\57.TodoApp\TodoApp.Apis.Tests.ConsoleApp\bin\Debug\netcoreapp3.1\TodoApp.Apis.Tests.ConsoleApp.exe
+C:\C-Book\C#\57.TodoApp\TodoApp.Apis.Tests.ConsoleApp\bin\Debug\netcoreapp3.1\TodoApp.Apis.Tests.ConsoleApp.deps.json
+C:\C-Book\C#\57.TodoApp\TodoApp.Apis.Tests.ConsoleApp\bin\Debug\netcoreapp3.1\TodoApp.Apis.Tests.ConsoleApp.runtimeconfig.json
+C:\C-Book\C#\57.TodoApp\TodoApp.Apis.Tests.ConsoleApp\bin\Debug\netcoreapp3.1\TodoApp.Apis.Tests.ConsoleApp.runtimeconfig.dev.json
+C:\C-Book\C#\57.TodoApp\TodoApp.Apis.Tests.ConsoleApp\bin\Debug\netcoreapp3.1\TodoApp.Apis.Tests.ConsoleApp.dll
+C:\C-Book\C#\57.TodoApp\TodoApp.Apis.Tests.ConsoleApp\bin\Debug\netcoreapp3.1\TodoApp.Apis.Tests.ConsoleApp.pdb
+C:\C-Book\C#\57.TodoApp\TodoApp.Apis.Tests.ConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\C-Book\C#\57.TodoApp\TodoApp.Apis.Tests.ConsoleApp\obj\Debug\netcoreapp3.1\TodoApp.Apis.Tests.ConsoleApp.csproj.CopyComplete
+C:\C-Book\C#\57.TodoApp\TodoApp.Apis.Tests.ConsoleApp\obj\Debug\netcoreapp3.1\TodoApp.Apis.Tests.ConsoleApp.dll
+C:\C-Book\C#\57.TodoApp\TodoApp.Apis.Tests.ConsoleApp\obj\Debug\netcoreapp3.1\TodoApp.Apis.Tests.ConsoleApp.pdb
+C:\C-Book\C#\57.TodoApp\TodoApp.Apis.Tests.ConsoleApp\obj\Debug\netcoreapp3.1\TodoApp.Apis.Tests.ConsoleApp.genruntimeconfig.cache

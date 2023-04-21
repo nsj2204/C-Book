@@ -1,0 +1,15 @@
+C:\C-Book\C#\57.TodoApp\TodoApp.WindowFormsApp\bin\Debug\TodoApp.WindowFormsApp.exe.config
+C:\C-Book\C#\57.TodoApp\TodoApp.WindowFormsApp\bin\Debug\TodoApp.WindowFormsApp.exe
+C:\C-Book\C#\57.TodoApp\TodoApp.WindowFormsApp\bin\Debug\TodoApp.WindowFormsApp.pdb
+C:\C-Book\C#\57.TodoApp\TodoApp.WindowFormsApp\bin\Debug\TodoApp.Models.dll
+C:\C-Book\C#\57.TodoApp\TodoApp.WindowFormsApp\bin\Debug\Newtonsoft.Json.dll
+C:\C-Book\C#\57.TodoApp\TodoApp.WindowFormsApp\bin\Debug\TodoApp.Models.pdb
+C:\C-Book\C#\57.TodoApp\TodoApp.WindowFormsApp\bin\Debug\Newtonsoft.Json.xml
+C:\C-Book\C#\57.TodoApp\TodoApp.WindowFormsApp\obj\Debug\TodoApp.WindowFormsApp.csproj.AssemblyReference.cache
+C:\C-Book\C#\57.TodoApp\TodoApp.WindowFormsApp\obj\Debug\TodoApp.WindowFormsApp.Form1.resources
+C:\C-Book\C#\57.TodoApp\TodoApp.WindowFormsApp\obj\Debug\TodoApp.WindowFormsApp.Properties.Resources.resources
+C:\C-Book\C#\57.TodoApp\TodoApp.WindowFormsApp\obj\Debug\TodoApp.WindowFormsApp.csproj.GenerateResource.cache
+C:\C-Book\C#\57.TodoApp\TodoApp.WindowFormsApp\obj\Debug\TodoApp.WindowFormsApp.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\57.TodoApp\TodoApp.WindowFormsApp\obj\Debug\TodoApp.WindowFormsApp.csproj.CopyComplete
+C:\C-Book\C#\57.TodoApp\TodoApp.WindowFormsApp\obj\Debug\TodoApp.WindowFormsApp.exe
+C:\C-Book\C#\57.TodoApp\TodoApp.WindowFormsApp\obj\Debug\TodoApp.WindowFormsApp.pdb

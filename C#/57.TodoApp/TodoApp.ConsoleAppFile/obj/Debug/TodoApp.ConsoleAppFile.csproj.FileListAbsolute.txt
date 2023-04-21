@@ -1,0 +1,12 @@
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleAppFile\bin\Debug\TodoApp.ConsoleAppFile.exe.config
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleAppFile\bin\Debug\TodoApp.ConsoleAppFile.exe
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleAppFile\bin\Debug\TodoApp.ConsoleAppFile.pdb
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleAppFile\bin\Debug\TodoApp.Models.dll
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleAppFile\bin\Debug\TodoApp.Models.pdb
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleAppFile\obj\Debug\TodoApp.ConsoleAppFile.csproj.AssemblyReference.cache
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleAppFile\obj\Debug\TodoApp.ConsoleAppFile.csproj.CoreCompileInputs.cache
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleAppFile\obj\Debug\TodoApp.ConsoleAppFile.csproj.CopyComplete
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleAppFile\obj\Debug\TodoApp.ConsoleAppFile.exe
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleAppFile\obj\Debug\TodoApp.ConsoleAppFile.pdb
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleAppFile\bin\Debug\Newtonsoft.Json.dll
+C:\C-Book\C#\57.TodoApp\TodoApp.ConsoleAppFile\bin\Debug\Newtonsoft.Json.xml

@@ -17,7 +17,7 @@ namespace TodoApp.ConsoleApp
             // [1] 기본 데이터 출력
             foreach (var t in todos)
             {
-                Console.WriteLine($"{t.ID} - {t.Title}({t.IsDone})");
+                Console.WriteLine($"{t.Id} - {t.Title}({t.IsDone})");
             }
             Console.WriteLine();
             // [2] 데이터 입력
@@ -27,7 +27,7 @@ namespace TodoApp.ConsoleApp
             // [3] 변경 데이터 출력
             foreach(var t in todos)
             {
-                Console.WriteLine($"{t.ID} - {t.Title}({t.IsDone})");
+                Console.WriteLine($"{t.Id} - {t.Title}({t.IsDone})");
             }
         }
     }

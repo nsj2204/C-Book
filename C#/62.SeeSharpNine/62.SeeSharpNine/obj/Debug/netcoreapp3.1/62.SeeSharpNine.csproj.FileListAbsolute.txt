@@ -1,0 +1,13 @@
+C:\Users\NSJ\source\repos\62.SeeSharpNine\62.SeeSharpNine\bin\Debug\netcoreapp3.1\62.SeeSharpNine.exe
+C:\Users\NSJ\source\repos\62.SeeSharpNine\62.SeeSharpNine\bin\Debug\netcoreapp3.1\62.SeeSharpNine.deps.json
+C:\Users\NSJ\source\repos\62.SeeSharpNine\62.SeeSharpNine\bin\Debug\netcoreapp3.1\62.SeeSharpNine.runtimeconfig.json
+C:\Users\NSJ\source\repos\62.SeeSharpNine\62.SeeSharpNine\bin\Debug\netcoreapp3.1\62.SeeSharpNine.runtimeconfig.dev.json
+C:\Users\NSJ\source\repos\62.SeeSharpNine\62.SeeSharpNine\bin\Debug\netcoreapp3.1\62.SeeSharpNine.dll
+C:\Users\NSJ\source\repos\62.SeeSharpNine\62.SeeSharpNine\bin\Debug\netcoreapp3.1\62.SeeSharpNine.pdb
+C:\Users\NSJ\source\repos\62.SeeSharpNine\62.SeeSharpNine\obj\Debug\netcoreapp3.1\62.SeeSharpNine.AssemblyInfoInputs.cache
+C:\Users\NSJ\source\repos\62.SeeSharpNine\62.SeeSharpNine\obj\Debug\netcoreapp3.1\62.SeeSharpNine.AssemblyInfo.cs
+C:\Users\NSJ\source\repos\62.SeeSharpNine\62.SeeSharpNine\obj\Debug\netcoreapp3.1\62.SeeSharpNine.csproj.CoreCompileInputs.cache
+C:\Users\NSJ\source\repos\62.SeeSharpNine\62.SeeSharpNine\obj\Debug\netcoreapp3.1\62.SeeSharpNine.dll
+C:\Users\NSJ\source\repos\62.SeeSharpNine\62.SeeSharpNine\obj\Debug\netcoreapp3.1\62.SeeSharpNine.pdb
+C:\Users\NSJ\source\repos\62.SeeSharpNine\62.SeeSharpNine\obj\Debug\netcoreapp3.1\62.SeeSharpNine.genruntimeconfig.cache
+C:\Users\NSJ\source\repos\62.SeeSharpNine\62.SeeSharpNine\obj\Debug\netcoreapp3.1\62.SeeSharpNine.csproj.AssemblyReference.cache

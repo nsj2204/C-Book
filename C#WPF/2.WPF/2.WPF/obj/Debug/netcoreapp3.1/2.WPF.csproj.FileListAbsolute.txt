@@ -1,0 +1,13 @@
+C:\C-Book\C#WPF\2.WPF\2.WPF\bin\Debug\netcoreapp3.1\2.WPF.exe
+C:\C-Book\C#WPF\2.WPF\2.WPF\bin\Debug\netcoreapp3.1\2.WPF.deps.json
+C:\C-Book\C#WPF\2.WPF\2.WPF\bin\Debug\netcoreapp3.1\2.WPF.runtimeconfig.json
+C:\C-Book\C#WPF\2.WPF\2.WPF\bin\Debug\netcoreapp3.1\2.WPF.runtimeconfig.dev.json
+C:\C-Book\C#WPF\2.WPF\2.WPF\bin\Debug\netcoreapp3.1\2.WPF.dll
+C:\C-Book\C#WPF\2.WPF\2.WPF\bin\Debug\netcoreapp3.1\2.WPF.pdb
+C:\C-Book\C#WPF\2.WPF\2.WPF\obj\Debug\netcoreapp3.1\2.WPF.csproj.AssemblyReference.cache
+C:\C-Book\C#WPF\2.WPF\2.WPF\obj\Debug\netcoreapp3.1\2.WPF.AssemblyInfoInputs.cache
+C:\C-Book\C#WPF\2.WPF\2.WPF\obj\Debug\netcoreapp3.1\2.WPF.AssemblyInfo.cs
+C:\C-Book\C#WPF\2.WPF\2.WPF\obj\Debug\netcoreapp3.1\2.WPF.csproj.CoreCompileInputs.cache
+C:\C-Book\C#WPF\2.WPF\2.WPF\obj\Debug\netcoreapp3.1\2.WPF.dll
+C:\C-Book\C#WPF\2.WPF\2.WPF\obj\Debug\netcoreapp3.1\2.WPF.pdb
+C:\C-Book\C#WPF\2.WPF\2.WPF\obj\Debug\netcoreapp3.1\2.WPF.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\C-Book\C#WPF\6.WPF_DataTrigger\6.WPF_DataTrigger\bin\Debug\6.WPF_DataTrigger.exe.config
+C:\C-Book\C#WPF\6.WPF_DataTrigger\6.WPF_DataTrigger\bin\Debug\6.WPF_DataTrigger.exe
+C:\C-Book\C#WPF\6.WPF_DataTrigger\6.WPF_DataTrigger\bin\Debug\6.WPF_DataTrigger.pdb
+C:\C-Book\C#WPF\6.WPF_DataTrigger\6.WPF_DataTrigger\obj\Debug\6.WPF_DataTrigger.csproj.AssemblyReference.cache
+C:\C-Book\C#WPF\6.WPF_DataTrigger\6.WPF_DataTrigger\obj\Debug\6.WPF_DataTrigger.csproj.SuggestedBindingRedirects.cache
+C:\C-Book\C#WPF\6.WPF_DataTrigger\6.WPF_DataTrigger\obj\Debug\MainWindow.g.cs
+C:\C-Book\C#WPF\6.WPF_DataTrigger\6.WPF_DataTrigger\obj\Debug\App.g.cs
+C:\C-Book\C#WPF\6.WPF_DataTrigger\6.WPF_DataTrigger\obj\Debug\6.WPF_DataTrigger_MarkupCompile.cache
+C:\C-Book\C#WPF\6.WPF_DataTrigger\6.WPF_DataTrigger\obj\Debug\6.WPF_DataTrigger_MarkupCompile.lref
+C:\C-Book\C#WPF\6.WPF_DataTrigger\6.WPF_DataTrigger\obj\Debug\MainWindow.baml
+C:\C-Book\C#WPF\6.WPF_DataTrigger\6.WPF_DataTrigger\obj\Debug\6.WPF_DataTrigger.g.resources
+C:\C-Book\C#WPF\6.WPF_DataTrigger\6.WPF_DataTrigger\obj\Debug\_6.WPF_DataTrigger.Properties.Resources.resources
+C:\C-Book\C#WPF\6.WPF_DataTrigger\6.WPF_DataTrigger\obj\Debug\6.WPF_DataTrigger.csproj.GenerateResource.cache
+C:\C-Book\C#WPF\6.WPF_DataTrigger\6.WPF_DataTrigger\obj\Debug\6.WPF_DataTrigger.csproj.CoreCompileInputs.cache
+C:\C-Book\C#WPF\6.WPF_DataTrigger\6.WPF_DataTrigger\obj\Debug\6.WPF_DataTrigger.exe
+C:\C-Book\C#WPF\6.WPF_DataTrigger\6.WPF_DataTrigger\obj\Debug\6.WPF_DataTrigger.pdb

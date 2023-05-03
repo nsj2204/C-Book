@@ -1,0 +1,15 @@
+C:\C-Book\C#WPF\ChatApp\ChatServer\bin\Debug\net6.0\ChatServer.exe
+C:\C-Book\C#WPF\ChatApp\ChatServer\bin\Debug\net6.0\ChatServer.deps.json
+C:\C-Book\C#WPF\ChatApp\ChatServer\bin\Debug\net6.0\ChatServer.runtimeconfig.json
+C:\C-Book\C#WPF\ChatApp\ChatServer\bin\Debug\net6.0\ChatServer.dll
+C:\C-Book\C#WPF\ChatApp\ChatServer\bin\Debug\net6.0\ChatServer.pdb
+C:\C-Book\C#WPF\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.csproj.AssemblyReference.cache
+C:\C-Book\C#WPF\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Book\C#WPF\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.AssemblyInfoInputs.cache
+C:\C-Book\C#WPF\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.AssemblyInfo.cs
+C:\C-Book\C#WPF\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\C-Book\C#WPF\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.dll
+C:\C-Book\C#WPF\ChatApp\ChatServer\obj\Debug\net6.0\refint\ChatServer.dll
+C:\C-Book\C#WPF\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.pdb
+C:\C-Book\C#WPF\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.genruntimeconfig.cache
+C:\C-Book\C#WPF\ChatApp\ChatServer\obj\Debug\net6.0\ref\ChatServer.dll

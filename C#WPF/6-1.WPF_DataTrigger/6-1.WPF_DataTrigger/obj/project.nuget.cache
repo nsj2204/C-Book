@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "5QRN9nWXxdxnlyrkI/KvadtsxbWoq6YoCd6XdH6rVpdvKekT1DvKr2TBqIa/BFIuG0y3g3Du2jVWFySAlbIeGw==",
-  "success": true,
+  "dgSpecHash": "6nBpCvdb6XXbo1IlJ7ucoiRUnqsT9DJc75jhSM4Iar6qKW33ce+zBGWWsyg8wH7N/cHPRtPDJW3JB8a2YQ6Jrw==",
+  "success": false,
   "projectFilePath": "C:\\C-Book\\C#WPF\\6-1.WPF_DataTrigger\\6-1.WPF_DataTrigger\\6-1.WPF_DataTrigger.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "'6-1.WPF_DataTrigger'에 대한 프로젝트 정보를 읽을 수 없습니다. 잘못된 프레임워크 식별자 ''입니다."
+    }
+  ]
 }

@@ -1,0 +1,33 @@
+﻿<Window x:Class="WPF_Board_Project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Board_Project"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="700">
+    <StackPanel>
+        <Button x:Name="Add" Click="btnGetBoardListInfo_click">게시판 목록 가져오기</Button>
+        <TextBox x:Name="txtReqData"></TextBox>
+        <DataGrid x:Name="gridBoardList" AutoGenerateColumns="False">
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="Turquoise"/>
+                    <Setter Property="FontWeight" Value="SemiBold"/>
+                    <Setter Property="BorderThickness" Value="0,0,1,2"/>
+                    <Setter Property="BorderBrush" Value="Black"/>
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="No" Binding="{Binding No}" Width="100"/>
+                <DataGridTextColumn Header="Title" Binding="{Binding Title}" Width="100"/>
+                <DataGridTextColumn Header="Content" Binding="{Binding Content}" Width="100"/>
+                <DataGridTextColumn Header="Writer" Binding="{Binding Writer}" Width="100"/>
+                <DataGridTextColumn Header="WriteDate" Binding="{Binding WriteDate}" Width="100"/>
+                <DataGridTextColumn Header="Hit" Binding="{Binding Hit}" Width="100"/>
+                <DataGridTextColumn Header="Password" Binding="{Binding PW}" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBox x:Name="txtRepData" Height="100"></TextBox>
+    </StackPanel>
+</Window>
